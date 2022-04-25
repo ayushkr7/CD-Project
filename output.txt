@@ -1,0 +1,12 @@
+
+------------------------------------------------------
+INPUT EXPRESSION: (32.1 / 234) -dfd 21.32
+
+
+RECOGNIZED TOKENS: 
+Left-Parentheses  Float  Operator  Integer  Right-Parentheses  Operator  Invalid  Invalid  Invalid  Float  
+------------------------------------------------------
+INPUT EXPRESSION: 2133 * 123
+
+RECOGNIZED TOKENS: 
+Integer  Operator  Integer  Invalid  Integer  Invalid  Invalid  Invalid  Invalid  Float  
